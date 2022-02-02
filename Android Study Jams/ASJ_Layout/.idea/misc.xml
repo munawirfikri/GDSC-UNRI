@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/munawirfikri/GDSC-UNRI/Android Study Jams/ASJ_Layout/app/src/main/res/layout/activity_detail.xml" value="0.176" />
+        <entry key="..\:/Users/munawirfikri/GDSC-UNRI/Android Study Jams/ASJ_Layout/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/munawirfikri/GDSC-UNRI/Android Study Jams/ASJ_Layout/app/src/main/res/layout/activity_splash.xml" value="0.128" />
+        <entry key="..\:/Users/munawirfikri/GDSC-UNRI/Android Study Jams/ASJ_Layout/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/munawirfikri/Layout_ASJ/app/src/main/res/drawable/back.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/munawirfikri/Layout_ASJ/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>

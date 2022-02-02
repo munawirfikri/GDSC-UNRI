@@ -255,18 +255,21 @@
         android:layout_below="@id/feed_type"
         >
         <ImageView
+            android:id="@+id/feed1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:src="@drawable/feed1"
             android:layout_weight="1"
             />
         <ImageView
+            android:id="@+id/feed2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:src="@drawable/feed2"
             android:layout_weight="1"
             />
         <ImageView
+            android:id="@+id/feed3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:src="@drawable/feed3"
